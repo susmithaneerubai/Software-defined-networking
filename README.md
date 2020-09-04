@@ -1,0 +1,2 @@
+# Software-defined-networking
+Study on what and how the Software Defined Networks (SDN) is the paradigm shift in the networking world from distributed control planes in individual devices to a centralized controller. Presenting a Report on the genesis of Software Defined Networking being driven by large cloud- based data centers such as Amazon and Google Addressing requirements as AGILITY, SCALABILITY AND ELASTICITY.
